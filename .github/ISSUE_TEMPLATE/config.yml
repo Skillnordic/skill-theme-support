@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://github.com/Skillnordic/skill-theme-support#readme
+    about: How to install the theme and what each setting does.

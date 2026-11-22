@@ -1,0 +1,54 @@
+name: Report a fault
+description: Something in Skill Theme does not look or work as it should.
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happens
+      description: What you see, and what you expected to see.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How to see it
+      description: The page, and what you did before it happened.
+      placeholder: "1. Open ...\n2. Click ...\n3. ..."
+    validations:
+      required: true
+  - type: input
+    id: moodle
+    attributes:
+      label: Moodle version
+      description: Site administration → Notifications shows it at the bottom.
+      placeholder: "5.3"
+    validations:
+      required: true
+  - type: input
+    id: theme
+    attributes:
+      label: Skill Theme version
+      description: Site administration → Plugins → Plugins overview, on the line for Skill Theme.
+      placeholder: "3.2.4"
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Browser and device
+      placeholder: "Chrome on Windows, Safari on iPhone ..."
+  - type: dropdown
+    id: mode
+    attributes:
+      label: Light or dark mode
+      options:
+        - Light
+        - Dark
+        - Both
+        - Not sure
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot
+      description: Drag a screenshot here. Remove names and personal data first.

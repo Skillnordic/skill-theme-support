@@ -1,0 +1,15 @@
+name: Ask a question or suggest something
+description: A question about the theme, or an idea for a new version.
+labels: [question]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question or idea
+    validations:
+      required: true
+  - type: input
+    id: moodle
+    attributes:
+      label: Moodle version
+      placeholder: "5.3"
