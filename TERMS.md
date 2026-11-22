@@ -1,10 +1,8 @@
 # Skill Theme: Terms of Sale
 
-> **Draft.** These terms are not yet in force. They will apply from the date below when Skill Theme is published in Moodle Marketplace.
+These terms apply from 1 December 2026.
 
-Last updated: **[date]**
-
-**1. Who we are.** Skill Theme is sold by Skill Nordic AS, **[organisation number]**, **[address]**, Norway. Contact: support@skillnordic.no.
+**1. Who we are.** Skill Theme is sold by Skill Nordic AS, organisation number 938 690 421, Oksebakkveien 35, 8016 Bodø, Norway. Contact: support@skillnordic.no.
 
 **2. What you buy.** A yearly subscription to Skill Theme for one Moodle site. The subscription gives you access to every new version of the theme published during the subscription, and support as described below.
 
@@ -26,6 +24,6 @@ Last updated: **[date]**
 
 **11. Liability.** We test the theme carefully, but we cannot promise that it works with every plugin, setting or content on every site. Test it on a copy of your site before you use it on a live site. Our liability is limited to the amount you have paid for the current year, unless the law says otherwise.
 
-**12. Changes to these terms.** We may change these terms. Changes apply to new purchases and renewals after the date above.
+**12. Changes to these terms.** We may change these terms. Changes apply to new purchases and renewals after the date the changed terms are published here.
 
 **13. Governing law.** These terms are governed by Norwegian law. Disputes are settled by Salten og Lofoten tingrett (Salten and Lofoten District Court), unless the law gives you the right to another court.
