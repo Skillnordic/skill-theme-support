@@ -43,7 +43,7 @@ Choose another theme first, for example Boost. Then uninstall Skill Theme under 
 
 ## Good to know
 
-- **Dark mode and older content.** Text or backgrounds coloured by hand in course content keep their colours in dark mode, and can be hard to read. Switch dark mode off under *Features* if your courses have a lot of such content.
+- **Dark mode and older content.** Course content often has colours set by hand: dark text, a light box, a table with light borders. In dark mode, the theme measures the contrast of this text against the background it sits on, and adjusts only what is too weak (below 4.5:1). The colours keep their hue, nothing is saved, and the content looks as before in light mode. Text on top of pictures is not adjusted. If something is still hard to read, tell us on the issue tracker, or switch dark mode off under *Features*.
 - **Phones.** The main pages are in a menu at the bottom of the screen. On pages with Moodle's save bar at the bottom, the menu is hidden and the menu button at the top opens the main menu.
 - **Privacy.** The theme stores one preference per user (light, dark or automatic) and contacts no external service.
 
